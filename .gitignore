@@ -1,2 +1,5 @@
 .ipynp_checkpoints
 *.pdf
+.ipynb_checkpoints/svm-tobi-checkpoint.ipynb
+.ipynb_checkpoints/svm-checkpoint.ipynb
+svmplot.pdf
